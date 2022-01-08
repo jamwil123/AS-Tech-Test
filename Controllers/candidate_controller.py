@@ -1,4 +1,4 @@
 
 
-def create_candidate() : 
+def create_candidate(name, candidateRef) : 
     print('poo')
